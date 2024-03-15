@@ -1,0 +1,14 @@
+D:\GeekBrains\C#\hm2\hm1\bin\Debug\net8.0\hm1.exe
+D:\GeekBrains\C#\hm2\hm1\bin\Debug\net8.0\hm1.deps.json
+D:\GeekBrains\C#\hm2\hm1\bin\Debug\net8.0\hm1.runtimeconfig.json
+D:\GeekBrains\C#\hm2\hm1\bin\Debug\net8.0\hm1.dll
+D:\GeekBrains\C#\hm2\hm1\bin\Debug\net8.0\hm1.pdb
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.AssemblyInfo.cs
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.dll
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\refint\hm1.dll
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.pdb
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\hm1.genruntimeconfig.cache
+D:\GeekBrains\C#\hm2\hm1\obj\Debug\net8.0\ref\hm1.dll
