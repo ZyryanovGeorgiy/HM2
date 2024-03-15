@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.AssemblyInfo.cs
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.sourcelink.json
+D:\GeekBrains\C#\hm2\hm3\bin\Debug\net8.0\hm3.exe
+D:\GeekBrains\C#\hm2\hm3\bin\Debug\net8.0\hm3.deps.json
+D:\GeekBrains\C#\hm2\hm3\bin\Debug\net8.0\hm3.runtimeconfig.json
+D:\GeekBrains\C#\hm2\hm3\bin\Debug\net8.0\hm3.dll
+D:\GeekBrains\C#\hm2\hm3\bin\Debug\net8.0\hm3.pdb
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.dll
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\refint\hm3.dll
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.pdb
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\hm3.genruntimeconfig.cache
+D:\GeekBrains\C#\hm2\hm3\obj\Debug\net8.0\ref\hm3.dll
