@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.AssemblyInfo.cs
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.sourcelink.json
+D:\GeekBrains\C#\hm2\hm_2\bin\Debug\net8.0\hm_2.exe
+D:\GeekBrains\C#\hm2\hm_2\bin\Debug\net8.0\hm_2.deps.json
+D:\GeekBrains\C#\hm2\hm_2\bin\Debug\net8.0\hm_2.runtimeconfig.json
+D:\GeekBrains\C#\hm2\hm_2\bin\Debug\net8.0\hm_2.dll
+D:\GeekBrains\C#\hm2\hm_2\bin\Debug\net8.0\hm_2.pdb
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.dll
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\refint\hm_2.dll
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.pdb
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\hm_2.genruntimeconfig.cache
+D:\GeekBrains\C#\hm2\hm_2\obj\Debug\net8.0\ref\hm_2.dll
